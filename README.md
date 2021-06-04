@@ -25,7 +25,7 @@ The agenda is:
 The goal of these exercises are to practice writing specific tasks and task steps. A well defined
 task and steps are key to creating a focused, well thought out tutorial.
 
-You will create three unique, specific tasks and then create the task steps for one of them.   
+First, you will create the task steps for a predefined task. Then, you will create three unique, specific tasks and then create the task steps for one of them.   
 
 ## Exercise 2: Write clearly 
 

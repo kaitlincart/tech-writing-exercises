@@ -1,3 +1,9 @@
+# Exercise 3.1
+
+Edit the following tutorial to be consistent with both the Engineering style guide and Learn style guide. 
+
+## Tutorial 
+
 So far you’ve deployed one VCN, two Subnets, an Object Storage bucket and a compute instance.  You didn’t specify a private IP address to use for the compute instance, so your instance just got handed a random IP address.  Wouldn’t it be nice if you could see the IP address of the compute instance you deployed, printed to the display, when you run Terraform?  This is really easy to do, with the use of outputs (output variables).
 
 ## Output Configuration
