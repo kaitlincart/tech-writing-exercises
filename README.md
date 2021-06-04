@@ -31,6 +31,14 @@ You will create three unique, specific tasks and then create the task steps for 
 
 **Time: 20 minutes**
 
+The goal of these exercises are to practice clear and concise writing. 
+
+You will practice writing clearly by updating a sample sentence into 2 or more short sentences. Then you will write your own introduction composed or 3 - 6 short sentences.  
+
 ## Exercise 3: Edit 
 
 **Time: 20 minutes**
+
+The goal of this exercise is to become familiar with the style guide and editing process.
+
+You will edit an entire tutorial with a partner.
