@@ -1,6 +1,6 @@
 # Technical Writing Workshop
 
-This repository contains the writing and editing exercises for the [Technical Writing Workshop]().
+This repository contains the writing and editing exercises for the [Technical Writing Workshop](https://docs.google.com/presentation/d/1_ktg9EHwEo_y1F33AodlDqHaxuco1ucDBSYie3ZRiJs/edit?usp=sharing).
 By the end of the workshop, you will understand best practices for:   
 - Technical writing
 - Editing
@@ -18,14 +18,15 @@ The agenda is:
 1. Edits
 1. Instructional design best practices
 
-## Exercise 1: Create task and task steps
+## Exercise 1: Create a task and task steps
 
 **Time: 20 minutes**
 
 The goal of these exercises are to practice writing specific tasks and task steps. A well defined
 task and steps are key to creating a focused, well thought out tutorial.
 
-First, you will create the task steps for a predefined task. Then, you will create three unique, specific tasks and then create the task steps for one of them.   
+* In [exercise 1.1](https://github.com/kaitlincart/tech-writing-exercises/blob/main/Exercise1-TaskSteps/1.1-tasksteps.md), you will create the task steps for a predefined task. 
+* In [exercise 1.2](https://github.com/kaitlincart/tech-writing-exercises/blob/main/Exercise1-TaskSteps/1.2-tasks.md), you will create three unique, specific tasks and then create the task steps for one of them.   
 
 ## Exercise 2: Write clearly 
 
@@ -33,7 +34,8 @@ First, you will create the task steps for a predefined task. Then, you will crea
 
 The goal of these exercises are to practice clear and concise writing. 
 
-You will practice writing clearly by updating a sample sentence into 2 or more short sentences. Then you will write your own introduction composed or 3 - 6 short sentences.  
+* In [exercise 2.1](https://github.com/kaitlincart/tech-writing-exercises/blob/main/Exercise2-WriteClearly/2.1-sentences.md), you will practice writing clearly by updating a long sample sentence into 2 or more short sentences. 
+* In [exercise 2.1](https://github.com/kaitlincart/tech-writing-exercises/blob/main/Exercise2-WriteClearly/2.2-introduction.md), you will write your own introduction composed or 3 - 6 short sentences.  
 
 ## Exercise 3: Edit 
 
@@ -41,4 +43,4 @@ You will practice writing clearly by updating a sample sentence into 2 or more s
 
 The goal of this exercise is to become familiar with the style guide and editing process.
 
-You will edit an entire tutorial with a partner.
+* In [exercise 3.1](https://github.com/kaitlincart/tech-writing-exercises/blob/main/Exercise3-Edit/3.1-terraform.md), you will edit an entire tutorial.
