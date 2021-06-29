@@ -35,7 +35,7 @@ task and steps are key to creating a focused, well thought out tutorial.
 The goal of these exercises are to practice clear and concise writing. 
 
 * In [exercise 2.1](https://github.com/kaitlincart/tech-writing-exercises/blob/main/Exercise2-WriteClearly/2.1-sentences.md), you will practice writing clearly by updating a long sample sentence into 2 or more short sentences. 
-* In [exercise 2.1](https://github.com/kaitlincart/tech-writing-exercises/blob/main/Exercise2-WriteClearly/2.2-introduction.md), you will write your own introduction composed or 3 - 6 short sentences.  
+* In [exercise 2.1](https://github.com/kaitlincart/tech-writing-exercises/blob/main/Exercise2-WriteClearly/2.2-introduction.md), you will write your own introduction composed or 4 - 6 short sentences.  
 
 ## Exercise 3: Edit 
 
