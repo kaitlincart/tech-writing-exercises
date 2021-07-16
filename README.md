@@ -12,7 +12,7 @@ The agenda is:
 1. Put steps in order
 1. Write clearly
 1. Follow a formula
-1. Edit
+1. Self-Edit
 
 ## Exercise 1: Create a task and task steps
 
