@@ -1,6 +1,6 @@
 # Technical Writing Workshop
 
-This repository contains the writing and editing exercises for the [Technical Writing Workshop](https://docs.google.com/presentation/d/1_ktg9EHwEo_y1F33AodlDqHaxuco1ucDBSYie3ZRiJs/edit?usp=sharing).
+This repository contains the writing and editing exercises for the [Technical Writing Workshop](https://drive.google.com/file/d/1zyt0RMCDEwmTEPQQ2yiAxW_NZ1dNOOID/view).
 By the end of the workshop, you will understand best practices for technical writing and editing.
 
 ### Workshop summary 
@@ -30,7 +30,7 @@ task and steps are key to creating a focused, well thought out tutorial.
 
 The goal of this exercises is to practice clear and concise writing. 
 
-* [Exercise 2.1](https://github.com/kaitlincart/tech-writing-exercises/blob/main/Exercise2-WriteClearly/2.1-sentences.md): update a long sample sentence into 2 or more short sentences.  
+* [Exercise 2.1](https://github.com/kaitlincart/tech-writing-exercises/blob/main/Exercise2-WriteClearly/2.1-sentences.md): update a long sentence into 2 or more short sentences.  
 
 ## Exercise 3: Edit 
 
