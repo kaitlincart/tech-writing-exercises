@@ -21,8 +21,8 @@ The agenda is:
 The goal of these exercises are to practice writing specific tasks and task steps. A well defined
 task and steps are key to creating a focused, well thought out tutorial.
 
-* [Exercise 1.1](https://github.com/kaitlincart/tech-writing-exercises/blob/main/Exercise1-TaskSteps/1.1-tasks.md): create the task steps for a predefined task. 
-* [Exercise 1.2](https://github.com/kaitlincart/tech-writing-exercises/blob/main/Exercise1-TaskSteps/1.2-tasksteps.md): order predefined task steps and then create the specific task.   
+* [Exercise 1.1](https://kaitlincart.github.io/tech-writing-exercises/Exercise1-TaskSteps/1.1-tasks): create the task steps for a predefined task. 
+* [Exercise 1.2](https://kaitlincart.github.io/tech-writing-exercises/Exercise1-TaskSteps/1.2-tasksteps): order predefined task steps and then create the specific task.   
 
 ## Exercise 2: Write clearly 
 
@@ -30,7 +30,7 @@ task and steps are key to creating a focused, well thought out tutorial.
 
 The goal of this exercises is to practice clear and concise writing. 
 
-* [Exercise 2.1](https://github.com/kaitlincart/tech-writing-exercises/blob/main/Exercise2-WriteClearly/2.1-sentences.md): update a long sentence into 2 or more short sentences.  
+* [Exercise 2.1](https://kaitlincart.github.io/tech-writing-exercises/Exercise2-WriteClearly/2.1-sentences): update a long sentence into 2 or more short sentences.  
 
 ## Exercise 3: Edit 
 
@@ -38,4 +38,4 @@ The goal of this exercises is to practice clear and concise writing.
 
 The goal of this exercise is to become familiar with the style guide and editing process.
 
-* [Exercise 3.1](https://github.com/kaitlincart/tech-writing-exercises/blob/main/Exercise3-Edit/3.1-edit.md): edit two tutorial snippets.
+* [Exercise 3.1](https://kaitlincart.github.io/tech-writing-exercises/Exercise3-Edit/3.1-edit): edit two tutorial snippets.
