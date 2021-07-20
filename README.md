@@ -22,7 +22,13 @@ The goal of these exercises are to practice writing specific tasks and task step
 task and steps are key to creating a focused, well thought out tutorial.
 
 * [Exercise 1.1](https://kaitlincart.github.io/tech-writing-exercises/Exercise1-TaskSteps/1.1-tasks): create the task steps for a predefined task. 
-* [Exercise 1.2](https://kaitlincart.github.io/tech-writing-exercises/Exercise1-TaskSteps/1.2-tasksteps): order predefined task steps and then create the specific task.   
+* [Exercise 1.2](https://kaitlincart.github.io/tech-writing-exercises/Exercise1-TaskSteps/1.2-tasksteps): order predefined task steps and then create the specific task. 
+
+If you are more comfortable working with UIs, here are the two alternative tasks.
+
+* [Exercise 1.1b](https://kaitlincart.github.io/tech-writing-exercises/Exercise1-TaskSteps/1.1b-tasks): create the task steps for a predefined task. 
+* [Exercise 1.2b](https://kaitlincart.github.io/tech-writing-exercises/Exercise1-TaskSteps/1.2b-tasksteps): order predefined task steps and then create the specific task. 
+
 
 ## Exercise 2: Write clearly 
 
