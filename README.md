@@ -33,7 +33,7 @@ If you are more comfortable working with UIs, here are the two alternative tasks
 
 **Time: 10 minutes**
 
-The goal of this exercises is to practice clear and concise writing. 
+The goal of this exercise is to practice clear and concise writing. 
 
 * [Exercise 2.1](https://kaitlincart.github.io/tech-writing-exercises/Exercise2-WriteClearly/2.1-sentences): update a long sentence into 2 or more short sentences.  
 
